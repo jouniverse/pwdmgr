@@ -63,4 +63,6 @@ Delete all the files and folders related to the app and delete the shortcuts app
 
 MacOS Ventura
 
+![screenshot from password manager app](./imgs/pwdmgr.png)
+
 All rights reserved **Jouni Rantanen**.
