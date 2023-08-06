@@ -1,4 +1,4 @@
-# Password Manager for MacOS
+# Password Manager for macOS
 
 ## Installation guide
 
