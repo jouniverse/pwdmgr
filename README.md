@@ -65,4 +65,6 @@ macOS Ventura
 
 ![screenshot from password manager app](./imgs/pwdmgr.png)
 
+### License
+
 All rights reserved **Jouni Rantanen**.
