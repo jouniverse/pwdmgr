@@ -14,6 +14,7 @@ Move the files:
 - **appList.txt**
 - **userList.txt**
 - **passwdList.txt**
+- **matches.txt**
 
 into that hidden folder you just created.
 
