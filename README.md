@@ -68,4 +68,4 @@ macOS Ventura
 
 ### License
 
-All rights reserved **Jouni Rantanen**.
+All rights reserved **jouniverse**.
